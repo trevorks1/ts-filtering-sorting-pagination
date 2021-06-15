@@ -42,3 +42,25 @@ export const laodDate = payload => ({
     payload
 }); 
   
+const initialState = {};
+const filterStore = (state = initialState, action) => {
+   switch (action.type) {
+       case SORT_BY_ALPHABET:
+           //sort alphabetically
+           return state;
+       case SORT_BY_PRICE:
+           //sort by price
+           return state;
+       case FILTER_BY_PRICE:
+           //filter by price
+           return state;
+       case LOAD_DATA:
+            let count = action.payload.count;
+            let products = generate(count);
+            return {
+                ...state,
+                products
+            };
+   }
+};
+export default filterStore;
