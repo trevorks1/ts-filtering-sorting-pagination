@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ts-filtering-sorting-pagination/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ts-filtering-sorting-pagination/static/js/main.15c14fb0.chunk.js",
+    "main.js.map": "/ts-filtering-sorting-pagination/static/js/main.15c14fb0.chunk.js.map",
+    "runtime-main.js": "/ts-filtering-sorting-pagination/static/js/runtime-main.1bb6005b.js",
+    "runtime-main.js.map": "/ts-filtering-sorting-pagination/static/js/runtime-main.1bb6005b.js.map",
+    "static/js/2.fadd3f57.chunk.js": "/ts-filtering-sorting-pagination/static/js/2.fadd3f57.chunk.js",
+    "static/js/2.fadd3f57.chunk.js.map": "/ts-filtering-sorting-pagination/static/js/2.fadd3f57.chunk.js.map",
+    "static/js/3.28d05c70.chunk.js": "/ts-filtering-sorting-pagination/static/js/3.28d05c70.chunk.js",
+    "static/js/3.28d05c70.chunk.js.map": "/ts-filtering-sorting-pagination/static/js/3.28d05c70.chunk.js.map",
+    "index.html": "/ts-filtering-sorting-pagination/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ts-filtering-sorting-pagination/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.fadd3f57.chunk.js.LICENSE.txt": "/ts-filtering-sorting-pagination/static/js/2.fadd3f57.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ts-filtering-sorting-pagination/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bb6005b.js",
+    "static/js/2.fadd3f57.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.15c14fb0.chunk.js"
+  ]
+}
